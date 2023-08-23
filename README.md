@@ -1,1 +1,1 @@
-Implementation of LeNet-5, in PyTorch
+Implementation of LeNet-5 in PyTorch
